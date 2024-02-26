@@ -11,6 +11,7 @@ body {
 }
 
 .container {
+    font-size: 3vw;
     width: 90%;
     margin: 0 auto;
 }
@@ -23,6 +24,11 @@ header {
 
 nav {
     text-align: center;
+}
+
+nav img {
+    height: 30vw;
+    width: 75vw;
 }
 
 nav ul {
@@ -58,7 +64,7 @@ section {
 }
 
 .accueil {
-    font-size: 48px;
+    font-size: 40px;
     font-weight: bold; 
     font-style: italic; 
     text-transform: uppercase; 
