@@ -124,7 +124,7 @@ section {
 .competences ul li {
     display: inline-block;
     font-size: 18px;
-    margin: 0 10px;
+    margin: 10px 10px;
     padding: 10px 20px;
     background-color: #333;
     color: #fff;
@@ -260,4 +260,11 @@ footer {
     color: #fff;
     text-align: center;
     padding: 20px 0;
+}
+
+h2{
+    background-color: #ccc;
+    color: #333;
+    border-radius: 5px;
+    margin-bottom: 10px;
 }
